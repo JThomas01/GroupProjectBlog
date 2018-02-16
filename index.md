@@ -21,3 +21,14 @@ Due to having a very important doctors appointment at this date, I was not avail
 ### Free Time, Llandinam - 16/02/18 - 1:00PM
 
 During my free time today, I was able to complete FR7 and FR8 of the test specification. FR7 was the specification on displaying the grid on the screen, while FR8 is the specification on entering words during gameplay. There wasn't anything too complicated about creating specifications for these.
+
+### Group Meeting 16/02/18 - 4:00PM
+
+We went over the method of storing the minutes, which will be changed from being stored on the wiki, to being committed to the git.
+
+We also assigned roles to each member of the group, they are as follows:
+-
+-
+-
+-
+-
