@@ -26,9 +26,14 @@ During my free time today, I was able to complete FR7 and FR8 of the test specif
 
 We went over the method of storing the minutes, which will be changed from being stored on the wiki, to being committed to the git.
 
-We also assigned roles to each member of the group, they are as follows:
--
--
--
--
--
+## Week beginning 19/02/18
+At the start of this week I added Chris Price (cjp) to the repositiry and he has been sent an email explaining so.
+
+### Group Meeting 19/02/18 - 2:00PM
+In this group meeting, everyone present went over the test specification and suggested items to add to the specification. Doing this brought to our attention the window size of the game window(s), and whether they should be fixed sizes or resizable by the user. In the end, we decided on the game window not being resizable, at least until we make a final decision as a whole group.
+
+### Group Meeting 21/02/18 - 3:00PM
+I did not attend this meeting as I was ill and I woke up late due to my insomnia (I have previiusly seen a doctor about this). I proposed to the group that we reschedule the meeting for a later date, as more than half of us were missing.
+
+### Grouo Meeting 23/02/18 - 4:00PM
+This was not an official meeting, as Wayne Aubrey contacted us about his absence. In this meeting we met our new grouo member.
