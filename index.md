@@ -38,10 +38,13 @@ In this group meeting, everyone present went over the test specification and sug
 ### Group Meeting 21/02/18 - 3:00PM
 I did not attend this meeting as I was ill(I have previiusly seen a doctor about this). I proposed to the group that we reschedule the meeting for a later date, as more than half of us were missing.
 
-### Group Meeting 23/02/18 - 4:00PM
-This was not an official meeting, as Wayne Aubrey contacted us about his absence. In this meeting we met our new group member.
+### Group Meeting 0.31 IBERS 23/2/18
+This meeting was called because of Wayne Aubreys absence to the meeting on Friday. I arrived late to the meeting and I did not have much to add to the meeting. In the meeting, it was agreed that all blogs would be updated, and that we were reading them to ensure everyones current progress. It was also discussed that we tidy up the repository to adhere to the QA standards. Using a third party app (such as Trello) to manage tasks was also discussed, which we talked about in the meeting that was scheduled later.
 
 ## Week beginning 26/02/18 (Week 5)
+
+### Group Meeting in Think Tank - 26/2/18
+In this meeting, tasks were given to each member of the group. The tasks were listed and members of the group put their hands up for a task that they were willing to do. Members that were not present in the meeting had a task assigned to them by the members that attended the meeting.
 
 ## Week beginning 5/03/18 (Week 6)
 
@@ -59,3 +62,16 @@ In this meeting we discussed the progress of the design specification. The intro
 Myself and Przemek agreed to meet at the think tank to discuss the dependency description. We drew many plans and discussed how the saving part of JoggleCube was going to integrate with the rest of the game. This took a while because we needed to go over how it was going to work, given that the games can run from saved text files, and not all games will make the leaderboard. I also brought up the point of the selected squares on the cube, as they could not be unselected afterwards. I was told thats how it is meant to be, considering the logic behind being able to unselect things.
 
 ### Group Meeting in B20 - 23/03/18 - 4:00PM
+We discussed our plans for the easter break, and what our plans and tasks are over the break. It was also noted that people are not commenting on the code that they write and a particular member has been going over and doing the comments. Although their time on this project is best spent somewere else. We also talked about the ETA for the prototype game and Wayne stressed to us that theres not a lot of time left.
+
+26/3/18 (Week 9)
+
+## Week beginning 21/4/18
+
+## Meeting in Think Tank - 23/04/18
+
+
+## Meeting in B20 27/04/18 - 4:00PM
+In this meeting we discussed with Wayne our basic outline for the schedule of integration week, for which we took all suggestions for testing and finalising implementation and took them on board to improve our workload over the coming week. We also discussed the abcense of a particular member and we will need a reason as to why they are missing meetings. 
+
+30/04/18
