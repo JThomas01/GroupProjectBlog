@@ -38,17 +38,32 @@ In this group meeting, everyone present went over the test specification and sug
 ### Group Meeting 21/02/18 - 3:00PM
 I did not attend this meeting as I was ill(I have previiusly seen a doctor about this). I proposed to the group that we reschedule the meeting for a later date, as more than half of us were missing.
 
-### Group Meeting 0.31 IBERS 23/2/18
-This meeting was called because of Wayne Aubreys absence to the meeting on Friday. I arrived late to the meeting and I did not have much to add to the meeting. In the meeting, it was agreed that all blogs would be updated, and that we were reading them to ensure everyones current progress. It was also discussed that we tidy up the repository to adhere to the QA standards. Using a third party app (such as Trello) to manage tasks was also discussed, which we talked about in the meeting that was scheduled later.
-
 ## Week beginning 26/02/18 (Week 5)
+
+### Group Meeting 0.31 IBERS 26/2/18
+This meeting was called because of Wayne Aubreys absence to the meeting on Friday. I arrived late to the meeting and I did not have much to add to the meeting. In the meeting, it was agreed that all blogs would be updated, and that we were reading them to ensure everyones current progress. It was also discussed that we tidy up the repository to adhere to the QA standards. Using a third party app (such as Trello) to manage tasks was also discussed, which we talked about in the meeting that was scheduled later.
 
 ### Group Meeting in Think Tank - 26/2/18
 In this meeting, tasks were given to each member of the group. The tasks were listed and members of the group put their hands up for a task that they were willing to do. Members that were not present in the meeting had a task assigned to them by the members that attended the meeting.
 
 ## Week beginning 5/03/18 (Week 6)
 
+### Meeting in think tank - 05/03/18
+We discussed the feedback we have recieved from Chris Price and members are urged to read upon the feedback, as it will be discussed later in the week. We also saw one of the first demos for our iteration of JoggleCube, a lot of the base concepts are there, now that the test spec is done, the rest of us are expected to help with the code where we can. 
+
+### Meeting in think tank - 07/03/18
+In this meeting we dicussed the feedback from Chris Price and set a plan to improve our work based upon that feedback. The test spec is set to be ammended to align with the feedback recieved. We also discussed the abcense of members, and not being informed as to why, this will be discussed with wayne later in the week.
+
+### Meeting in B20 - 19/13/18
+In this meeting we discussed the absence of member with no information as to why and now all members are required to give a basic explanaion as to why they cannot attend so the rest of the group know how to set tasks appropriately. We also dicussed each job that needs doing and I have been tasked with making sure the game stops the user fron saving pre loaded files.
+
 ## Week beginning 12/03/18 (Week 7)
+
+### Meeting in think tank - 12/03/18
+In this meeting it was found that many members did not how how the code for the game worked, so Przemek gave everyone a walkthrough. Excluding myself due to an abcense. i have informed the group as to why i was missing. After looking at the code and communicating with the group, i also now know how the code runs and where i can start working.
+
+### Meeting in think tank 
+We discussed information that Przemek had recieved from Chris Price after emailing him, after he showed us we asked if he could send the rest of the group the response if we need to look back at it. We have also began to fix our focus onto the technical documentation, before handin.
 
 ### Group Meeting in B20 - 16/03/18 - 4:00PM
 I was unable to attend this meeting, because I had a family emergency back home and i was required as soon as possible. I sent an email to Wayne Aubrey (waa2) explaining the situation and I have also sent a message to the rest of the group aswell.
@@ -64,14 +79,24 @@ Myself and Przemek agreed to meet at the think tank to discuss the dependency de
 ### Group Meeting in B20 - 23/03/18 - 4:00PM
 We discussed our plans for the easter break, and what our plans and tasks are over the break. It was also noted that people are not commenting on the code that they write and a particular member has been going over and doing the comments. Although their time on this project is best spent somewere else. We also talked about the ETA for the prototype game and Wayne stressed to us that theres not a lot of time left.
 
-26/3/18 (Week 9)
+## Week beginning 16/4/18 (Week 9)
 
-## Week beginning 21/4/18
+### Meeting in B20 - 20/4/18
+We only had this one meeting this week. During this meeting we discussed the feedback from Chris Price for our code. It was stated that we have too many classes that have small amounts of code in them, and the sequence diagrams need more detail.
 
-## Meeting in Think Tank - 23/04/18
+We also went over our plan for integration week which went over where we will be working, how we are keeping track of our issues and tasks and what priority they have. Members were set tasks to do in preperation for integration week.
+
+With the withdrawal of our project leader we have selected a new one. I have agreed to step into the role, as my previous position was the deputy. The new deputy leader is Przemylsaw Kukulski(prk3).
+
+## Week beginning 21/4/18 (Week 10)
+
+### Meeting in Think Tank - 23/04/18
 
 
-## Meeting in B20 27/04/18 - 4:00PM
+### Meeting in B20 27/04/18 - 4:00PM
 In this meeting we discussed with Wayne our basic outline for the schedule of integration week, for which we took all suggestions for testing and finalising implementation and took them on board to improve our workload over the coming week. We also discussed the abcense of a particular member and we will need a reason as to why they are missing meetings. 
 
-30/04/18
+## Week Beginning 30/4/18
+This week is integration week, so i will write a post at the end of each day at PJM lounge.
+
+### Monday - 30/4/18
